@@ -1,10 +1,10 @@
-# SpringBoot-Project - kiosk
+# SpringBoot-Project - KIOSK
 
-SPRING BOOT + Vue.js 영화 예매 사이트
+SPRING BOOT + Vue.js 상품 주문 사이트
 
 
 # 🖥️ 프로젝트 소개
-베스킨라빈스를 참고하여 만든 아이스크림 주문 사이트입니다.
+베스킨라빈스를 참고하여 만든 상품 주문 사이트입니다.
 
 
 # 🕰️ 개발 기간
